@@ -1,0 +1,88 @@
+span {
+	color: #ea2529;
+}
+
+}
+.navbar-custom .nav > li > a:focus,
+.navbar-custom .nav > li > a:hover,
+.navbar-custom .nav > li.active > a,
+.navbar-custom .nav .open > a,
+.navbar-custom .nav .open > a:focus,
+.navbar-custom .nav .open > a:hover {
+    color: #ea2529;
+}
+.section-title-left::after , .section-title::after , .single-pricing-table .pricing-title h2::after {
+  background: #ea2529 none repeat scroll 0 0;
+
+}
+.single-service .media .fa::before {
+  background: #ea2529 none repeat scroll 0 0;
+}
+.single-service .media:hover {
+    background-color: #ea2529;
+}
+.single-service .media:hover .fa::before {
+    color: #ea2529;
+}
+.testimonial-body::before {
+  color: #ea2529;
+}
+.client-name::before {
+  background: #ea2529 none repeat scroll 0 0;
+}
+#testimonial-carousel .owl-controls .owl-buttons .owl-prev:hover , #testimonial-carousel .owl-controls .owl-buttons .owl-next:hover {
+	background: #ea2529;
+	border: 1px solid transparent;
+	color: #fff;
+}
+.portfolio-filter-nav ul li:hover {
+    background: #ea2529 none repeat scroll 0 0;
+}
+.portfolio-filter-nav ul li.active {
+    background: #ea2529 none repeat scroll 0 0;
+}
+.single-pricing-table:hover .price , .single-pricing-table:hover .pricing-buttons button.buy-btn , .table-active .price {
+    background-color: #ea2529;
+}
+ .table-active .pricing-buttons button.buy-btn {
+    background-color: #ea2529 !important;
+    color: #fff !important;
+    border: 1px solid transparent !important;
+}
+.our-partners-section {
+	background-color: #000000;
+}
+.blog-post-details .post-heading em a {
+	color: #ea2529 !important;
+}
+.blog-post-details button.read-more-btn {
+    background: #ea2529 none repeat scroll 0 0;
+}
+.form-control:focus {
+    border-color: #ea2529;
+}
+.social-icons a .fa:hover {
+    background: #ea2529;
+}
+.portfolio-button button.portfolio-btn {
+    border: 2px solid #ea2529;
+    color: #ea2529;
+}
+.portfolio-button button.portfolio-btn:hover {
+    background-color: #ea2529;
+}
+.thumbnails:hover .portfolio-overlay {
+    background-color: #ea2529;
+}
+button.sl-prev .fa, button.sl-next .fa {
+    color: #ea2529;
+}
+.contact-form-section button.btn-contact {
+	background-color: #ea2529;
+}
+#main-slide .carousel-control i {
+    color: #ea2529;
+}
+#main-slide .carousel-control i:hover{
+    background: #ea2529;
+}
